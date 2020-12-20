@@ -2,7 +2,7 @@
 import kotlin.math.pow
 fun main()
 {
-    val x = 153
+    val x = 8208
     var temp: Int
     var p = 0
     var remainder: Int
